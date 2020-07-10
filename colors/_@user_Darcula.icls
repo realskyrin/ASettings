@@ -3,23 +3,23 @@
     <property name="created">2020-07-09T20:35:36</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.0.16</property>
-    <property name="modified">2020-07-09T22:28:52</property>
+    <property name="modified">2020-07-10T07:56:31</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="5193bb" />
+        <option name="FOREGROUND" value="75bb" />
       </value>
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="51bb54" />
+        <option name="FOREGROUND" value="1bb31" />
       </value>
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bbba64" />
+        <option name="FOREGROUND" value="b9bb02" />
       </value>
     </option>
   </attributes>
